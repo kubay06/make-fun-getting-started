@@ -39,11 +39,13 @@ This guide covers path 1 and 2 in full, and the first steps of path 3. The full 
 
 ## Your first 10 minutes
 
+Sign up, look at one real bounty and one real entry, then take one small action. That is the whole first visit — do not try to learn the entire platform in one sitting.
+
 ### Minutes 0–3: sign up
 
 1. Open the referral link above: https://make.fun/r/18a0yax6
 2. Use the site's sign-in flow to create your account.
-3. Confirm you can get back into your account — sign out and sign in once, or at least check your profile page loads.
+3. Confirm you can get back into your account — check that your profile page loads.
 
 If the site asks you to link a Solana wallet for payouts, link it where required. **Never share your wallet recovery phrase or private key with anyone, on make.fun or anywhere else.** No real support person will ask for it.
 
